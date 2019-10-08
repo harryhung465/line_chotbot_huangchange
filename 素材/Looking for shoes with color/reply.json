@@ -1,0 +1,42 @@
+[
+{
+  "type": "text",
+  "text": "何法以選箱中覆及。"
+},
+{
+  "type": "template",
+  "altText": "this is a buttons template",
+  "template": {
+    "type": "buttons",
+    "actions": [
+      {
+        "type": "postback",
+        "label": "鞋語論",
+        "text": "鞋面俱到，功能具備",
+        "data": "menu=rich_menu_1"
+      },
+      {
+        "type": "postback",
+        "label": "和顏以對",
+        "text": "main_color",
+        "data": "menu=rich_menu_4"
+      },
+      {
+        "type": "postback",
+        "label": "人鞋和睦",
+        "text": "以鞋找鞋，以人搭鞋",
+        "data": "menu=rich_menu_3"
+      },
+      {
+        "type": "postback",
+        "label": "以鞋指路",
+        "text": "鞋面埋伏",
+        "data": "menu=rich_menu_0"
+      }
+    ],
+    "thumbnailImageUrl": "https://f.rimg.com.tw/s2/5/71/3a/21845922713914_464.JPG",
+    "title": "修鞋真士",
+    "text": "眼見為憑是大法，此供四大法門"
+  }
+}
+]
