@@ -1,0 +1,23 @@
+{
+  "type": "template",
+  "altText": "this is a buttons template",
+  "template": {
+    "type": "buttons",
+    "actions": [
+      {
+        "type": "postback",
+        "label": "男鞋",
+        "text": "男鞋",
+        "data": "資料 1"
+      },
+      {
+        "type": "postback",
+        "label": "女鞋",
+        "text": "女鞋",
+        "data": "資料 2"
+      }
+    ],
+    "title": "問題",
+    "text": "你想購買以下哪種鞋?"
+  }
+}
