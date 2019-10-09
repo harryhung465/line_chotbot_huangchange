@@ -4,3 +4,5 @@ add 儲存使用者上傳照片功能
     menu六個功能彈出訊息OK,但要修改訊息內容
 ## 2 commit
 add 在素材folder中,加入問題一到六
+    修該DATA內容
+

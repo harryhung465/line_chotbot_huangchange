@@ -1,3 +1,4 @@
+[
 {
   "type": "template",
   "altText": "this is a buttons template",
@@ -8,22 +9,23 @@
         "type": "postback",
         "label": "流行尖端",
         "text": "流行尖端",
-        "data": "資料 1"
+        "data": "folder=問題六&tag=populartype"
       },
       {
         "type": "postback",
         "label": "經典款式",
         "text": "經典款式",
-        "data": "資料 2"
+        "data": "folder=問題六&tag=classictype"
       },
       {
         "type": "postback",
         "label": "我都喜歡",
         "text": "我都喜歡",
-        "data": "資料 3"
+        "data": "folder=問題六&tag=alltype"
       }
     ],
     "title": "問題",
     "text": "你選擇偏向以下哪一種款式?"
   }
 }
+]

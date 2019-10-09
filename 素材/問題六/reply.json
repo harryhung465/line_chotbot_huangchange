@@ -1,3 +1,4 @@
+[
 {
   "type": "template",
   "altText": "this is a buttons template",
@@ -8,16 +9,17 @@
         "type": "postback",
         "label": "歐美系",
         "text": "歐美系",
-        "data": "資料 1"
+        "data": "folder=&tag=america"
       },
       {
         "type": "postback",
         "label": "日系",
         "text": "日系",
-        "data": "資料 2"
+        "data": "folder=&tag=japan"
       }
     ],
     "title": "問題",
     "text": "你選擇偏向以下哪一種品牌?"
   }
 }
+]
