@@ -29,7 +29,7 @@
       },
       "action": {
         "type": "postback",
-        "text": "圖片找鞋",
+        "text": "顏色找鞋",
         "data": "folder=埋金掛玉&tag=ai"
       }
     },
@@ -42,7 +42,7 @@
       },
       "action": {
         "type": "postback",
-        "text": "顏色找鞋",
+        "text": "穿搭建議",
         "data": "folder=冷香熱藏&tag=cloud"
       }
     },
@@ -55,7 +55,7 @@
       },
       "action": {
         "type": "postback",
-        "text": "穿搭建議",
+        "text": "功能找鞋",
         "data": "folder=藏愚守拙&tag=devops"
       }
     },
@@ -68,7 +68,7 @@
       },
       "action": {
         "type": "postback",
-        "text": "功能找鞋",
+        "text": "圖片找鞋",
         "data": "folder=金陵四家&tag=contact"
       }
     },

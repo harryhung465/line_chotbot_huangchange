@@ -5,4 +5,8 @@ add 儲存使用者上傳照片功能
 ## 2 commit
 add 在素材folder中,加入問題一到六
     修該DATA內容
+## 3 commit
+add 上傳照片後回復主顏色
+    建立回傳訊息tag的json基本檔(ID_message)
+    測試回傳的程式(No end)
 
