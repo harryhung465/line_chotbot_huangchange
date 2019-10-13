@@ -4,8 +4,8 @@
     "height": 1686
   },
   "selected": true,
-  "name": "言顏選鞋士",
-  "chatBarText": "和顏以對",
+  "name": "建及履及",
+  "chatBarText": "建及履及",
   "areas": [
     {
       "bounds": {
@@ -17,7 +17,7 @@
       "action": {
         "type": "postback",
         "text": "流行趨勢",
-        "data": "folder=主顏色&tag=blockchain"
+        "data": "folder=流行趨勢&tag=blockchain"
       }
     },
     {
@@ -30,7 +30,7 @@
       "action": {
         "type": "postback",
         "text": "顏色找鞋",
-        "data": "folder=埋金掛玉&tag=ai"
+        "data": "folder=顏色找鞋&tag=ai"
       }
     },
     {
@@ -43,7 +43,7 @@
       "action": {
         "type": "postback",
         "text": "穿搭建議",
-        "data": "folder=冷香熱藏&tag=cloud"
+        "data": "folder=穿搭建議&tag=cloud"
       }
     },
     {
@@ -56,7 +56,7 @@
       "action": {
         "type": "postback",
         "text": "功能找鞋",
-        "data": "folder=藏愚守拙&tag=devops"
+        "data": "folder=功能找鞋&tag=devops"
       }
     },
     {
@@ -69,7 +69,7 @@
       "action": {
         "type": "postback",
         "text": "圖片找鞋",
-        "data": "folder=金陵四家&tag=contact"
+        "data": "folder=圖片找鞋&tag=contact"
       }
     },
     {
@@ -82,7 +82,7 @@
       "action": {
         "type": "postback",
         "text": "商品推薦",
-        "data": "tag=change_menu"
+        "data": "folder=商品推薦&tag=change_menu"
       }
     }
   ]
