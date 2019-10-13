@@ -9,4 +9,5 @@ add 在素材folder中,加入問題一到六
 add 上傳照片後回復主顏色
     建立回傳訊息tag的json基本檔(ID_message)
     測試回傳的程式(No end)
-
+## 4 commit
+add 完成回傳tag程式(in test)
