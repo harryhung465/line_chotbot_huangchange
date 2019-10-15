@@ -4,8 +4,8 @@
     "height": 1686
   },
   "selected": true,
-  "name": "建及履及",
-  "chatBarText": "建及履及",
+  "name": "履視布爽",
+  "chatBarText": "履視布爽",
   "areas": [
     {
       "bounds": {
@@ -16,8 +16,8 @@
       },
       "action": {
         "type": "postback",
-        "text": "流行趨勢",
-        "data": "folder=流行趨勢&tag=blockchain"
+        "text": "目前的流行趨勢",
+        "data": "menu=流行趨勢&tag=trend"
       }
     },
     {
@@ -30,7 +30,7 @@
       "action": {
         "type": "postback",
         "text": "顏色找鞋",
-        "data": "folder=顏色找鞋&tag=ai"
+        "data": "menu=顏色找鞋&tag=Colortofindshoes"
       }
     },
     {
@@ -43,7 +43,7 @@
       "action": {
         "type": "postback",
         "text": "穿搭建議",
-        "data": "folder=穿搭建議&tag=cloud"
+        "data": "menu=穿搭建議&tag=Wearadvice"
       }
     },
     {
@@ -56,7 +56,7 @@
       "action": {
         "type": "postback",
         "text": "功能找鞋",
-        "data": "folder=功能找鞋&tag=devops"
+        "data": "menu=功能找鞋&tag=Functiontofindshoes"
       }
     },
     {
@@ -69,7 +69,7 @@
       "action": {
         "type": "postback",
         "text": "圖片找鞋",
-        "data": "folder=圖片找鞋&tag=contact"
+        "data": "menu=圖片找鞋&tag=Picturetofindshoes"
       }
     },
     {
@@ -82,7 +82,7 @@
       "action": {
         "type": "postback",
         "text": "商品推薦",
-        "data": "folder=商品推薦&tag=change_menu"
+        "data": "menu=商品推薦&tag=Productsrecommend"
       }
     }
   ]
