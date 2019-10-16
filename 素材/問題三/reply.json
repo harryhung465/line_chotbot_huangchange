@@ -8,25 +8,25 @@
       {
         "type": "postback",
         "label": "跑鞋",
-        "text": "跑鞋",
+        "text": "收到反饋",
         "data": "folder=問題四&tag=run"
       },
       {
         "type": "postback",
         "label": "籃球鞋",
-        "text": "籃球鞋",
+        "text": "收到反饋",
         "data": "folder=問題四&tag=basketball"
       },
       {
         "type": "postback",
         "label": "運動休閒鞋",
-        "text": "運動休閒鞋",
+        "text": "收到反饋",
         "data": "folder=問題四&tag=sport"
       },
       {
         "type": "postback",
         "label": "其他運動鞋",
-        "text": "其他運動鞋",
+        "text": "收到反饋",
         "data": "folder=問題四&tag=other"
       }
     ],

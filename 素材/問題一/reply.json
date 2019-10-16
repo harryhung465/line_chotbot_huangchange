@@ -8,13 +8,13 @@
       {
         "type": "postback",
         "label": "男鞋",
-        "text": "男鞋",
+        "text": "收到反饋",
         "data": "folder=問題二&tag=man"
       },
       {
         "type": "postback",
         "label": "女鞋",
-        "text": "女鞋",
+        "text": "收到反饋",
         "data": "folder=問題二&tag=woman"
       }
     ],

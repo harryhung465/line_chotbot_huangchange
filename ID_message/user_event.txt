@@ -1,0 +1,6 @@
+{"tag": "america", "time": "2019-10-16 13:10:43", "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "blackwhite", "time": "2019-10-16 13:10:58", "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "man", "time": "2019-10-16 13:22:55", "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "3000", "time": "2019-10-16 13:23:29", "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "run", "time": "2019-10-16 13:27:29", "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "blackwhite", "time": "2019-10-16 13:34:08", "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}

@@ -17,7 +17,7 @@
       "action": {
         "type": "postback",
         "text": "目前的流行趨勢",
-        "data": "menu=流行趨勢&tag=trend"
+        "data": "folder=流行趨勢&tag=trend"
       }
     },
     {
@@ -30,7 +30,7 @@
       "action": {
         "type": "postback",
         "text": "顏色找鞋",
-        "data": "menu=顏色找鞋&tag=Colortofindshoes"
+        "data": "folder=顏色找鞋&tag=Colortofindshoes"
       }
     },
     {
@@ -43,7 +43,7 @@
       "action": {
         "type": "postback",
         "text": "穿搭建議",
-        "data": "menu=穿搭建議&tag=Wearadvice"
+        "data": "folder=穿搭建議&tag=Wearadvice"
       }
     },
     {
@@ -56,7 +56,7 @@
       "action": {
         "type": "postback",
         "text": "功能找鞋",
-        "data": "menu=功能找鞋&tag=Functiontofindshoes"
+        "data": "folder=功能找鞋&tag=Functiontofindshoes"
       }
     },
     {
@@ -69,7 +69,7 @@
       "action": {
         "type": "postback",
         "text": "圖片找鞋",
-        "data": "menu=圖片找鞋&tag=Picturetofindshoes"
+        "data": "folder=圖片找鞋&tag=Picturetofindshoes"
       }
     },
     {
@@ -82,7 +82,7 @@
       "action": {
         "type": "postback",
         "text": "商品推薦",
-        "data": "menu=商品推薦&tag=Productsrecommend"
+        "data": "folder=商品推薦&tag=Productsrecommend"
       }
     }
   ]

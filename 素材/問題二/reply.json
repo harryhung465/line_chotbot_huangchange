@@ -7,19 +7,25 @@
     "actions": [
       {
         "type": "postback",
-        "label": "是",
-        "text": "是",
-        "data": "folder=問題三&tag=yes"
+        "label": "3000元以下",
+        "text": "收到反饋",
+        "data": "folder=問題三&tag=3000"
       },
       {
         "type": "postback",
-        "label": "否",
-        "text": "否",
-        "data": "folder=問題三&tag=no"
+        "label": "3000~5000元",
+        "text": "收到反饋",
+        "data": "folder=問題三&tag=3000~5000"
+      },
+      {
+        "type": "postback",
+        "label": "5000元以上",
+        "text": "收到反饋",
+        "data": "folder=問題三&tag=5000"
       }
     ],
     "title": "問題",
-    "text": "如果看到很喜歡的鞋子，即使價格很高也一定會買。"
+    "text": "您的購鞋預算最高為多少?"
   }
 }
 ]
