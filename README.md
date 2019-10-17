@@ -13,3 +13,5 @@ add 上傳照片後回復主顏色
 add 完成回傳tag程式(in test)
 ## 5 commit
 add 完成回傳tag測試
+## 6 commit
+add 解決語順問題
