@@ -29,7 +29,7 @@
       },
       "action": {
         "type": "postback",
-        "text": "顏色找鞋",
+        "text": "可以透過照片的主次顏色找鞋",
         "data": "folder=顏色找鞋&tag=Colortofindshoes"
       }
     },
@@ -42,7 +42,7 @@
       },
       "action": {
         "type": "postback",
-        "text": "穿搭建議",
+        "text": "可以幫助您尋找穿搭",
         "data": "folder=穿搭建議&tag=Wearadvice"
       }
     },
@@ -55,7 +55,7 @@
       },
       "action": {
         "type": "postback",
-        "text": "功能找鞋",
+        "text": "可以在主功能表上選取功能來找鞋",
         "data": "folder=功能找鞋&tag=Functiontofindshoes"
       }
     },
@@ -68,7 +68,7 @@
       },
       "action": {
         "type": "postback",
-        "text": "圖片找鞋",
+        "text": "上傳鞋子圖片後找鞋",
         "data": "folder=圖片找鞋&tag=Picturetofindshoes"
       }
     },
@@ -81,7 +81,7 @@
       },
       "action": {
         "type": "postback",
-        "text": "商品推薦",
+        "text": "推薦商品給您",
         "data": "folder=商品推薦&tag=Productsrecommend"
       }
     }

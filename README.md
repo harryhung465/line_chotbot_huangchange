@@ -15,3 +15,5 @@ add 完成回傳tag程式(in test)
 add 完成回傳tag測試
 ## 6 commit
 add 解決語順問題
+## 7 commit
+add 初步解決輪播,差插入程式中

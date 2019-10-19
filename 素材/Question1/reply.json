@@ -7,19 +7,19 @@
     "actions": [
       {
         "type": "postback",
-        "label": "歐美系",
+        "label": "男性",
         "text": "收到反饋",
-        "data": "folder=rich_menu_4&tag=america"
+        "data": "folder=Question&tag=man"
       },
       {
         "type": "postback",
-        "label": "日系",
+        "label": "女性",
         "text": "收到反饋",
-        "data": "folder=rich_menu_4&tag=japan"
+        "data": "folder=Question&tag=woman"
       }
     ],
     "title": "問題",
-    "text": "你選擇偏向以下哪一種品牌?"
+    "text": "請問您是?"
   }
 }
 ]
