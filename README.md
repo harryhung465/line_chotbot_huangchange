@@ -17,3 +17,6 @@ add 完成回傳tag測試
 add 解決語順問題
 ## 7 commit
 add 初步解決輪播,差插入程式中
+## 8 commit
+add 修改時間戳記(time.time(),程式時間)=>(event.timestamp,line回傳時間)
+    修改程式次序讓tag存取在最後
