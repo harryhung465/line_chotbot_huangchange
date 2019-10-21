@@ -30,3 +30,11 @@
 {"tag": "Functiontofindshoes", "time": 1571562819592, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
 {"tag": "Picturetofindshoes", "time": 1571562825835, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
 {"tag": "Productsrecommend", "time": 1571562829155, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "trend", "time": 1571565103889, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "trend", "time": 1571565103889, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "user of first entering", "time": 1571647273644, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "user of first entering", "time": 1571650143507, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "user of first entering", "time": 1571651228584, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "user of first entering", "time": 1571651407417, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "user of first entering", "time": 1571651980569, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "user of first entering", "time": 1571659695413, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
