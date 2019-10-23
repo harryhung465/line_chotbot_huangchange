@@ -1,0 +1,3 @@
+{"product_ID": "EE9844", "tag": "Productsrecommend", "time": 1571826203510, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "EE6186", "tag": "3", "time": 1571826208711, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "EE6031", "tag": "4", "time": 1571826212237, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
