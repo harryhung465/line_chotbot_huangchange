@@ -168,3 +168,50 @@
 {"tag": "4", "time": 1571826212237, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
 {"product_ID": "now to choose", "tag": "no send out message", "time": 1571826212235, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
 {"product_ID": "now to choose", "tag": "no send out message", "time": 1571826216697, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "2", "time": 1571830394499, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "no send out message", "time": 1571830394497, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "5", "time": 1571830398223, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "no send out message", "time": 1571830398221, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "3", "time": 1571830401960, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "no send out message", "time": 1571830401959, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "no send out message", "time": 1571830405599, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "2", "time": 1571830410400, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "no send out message", "time": 1571830410399, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "3", "time": 1571830420521, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "no send out message", "time": 1571830420519, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "4", "time": 1571830424251, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "no send out message", "time": 1571830424249, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "no send out message", "time": 1571830427911, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "2", "time": 1571830431752, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "no send out message", "time": 1571830431751, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "5", "time": 1571830435134, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "no send out message", "time": 1571830435133, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "3", "time": 1571830444095, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "no send out message", "time": 1571830444094, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "no send out message", "time": 1571830447276, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "user of first entering", "time": 1571836167202, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "japan", "time": 1571836764052, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "no send out message", "time": 1571836764051, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "Productsrecommend", "time": 1571836767615, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "no send out message", "time": 1571836767613, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "4", "time": 1571836773157, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "no send out message", "time": 1571836773156, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "no send out message", "time": 1571836779880, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "4", "time": 1571836779881, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "no send out message", "time": 1571836786179, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "Productsrecommend", "time": 1571836796645, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "no send out message", "time": 1571836796644, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "Productsrecommend", "time": 1571836798357, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "no send out message", "time": 1571836798354, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "2", "time": 1571836802100, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "no send out message", "time": 1571836802099, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "no send out message", "time": 1571836808070, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "3", "time": 1571836814687, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "no send out message", "time": 1571836814686, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "4", "time": 1571836820509, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "no send out message", "time": 1571836820508, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "no send out message", "time": 1571836826526, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "2", "time": 1571836826528, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "no send out message", "time": 1571836832137, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "user of first entering", "time": 1571837500894, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "user of first entering", "time": 1571837678091, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}

@@ -23,3 +23,4 @@ add 修改時間戳記(time.time(),程式時間)=>(event.timestamp,line回傳時
 ## 9 commit
 add 增加隨機商品評分(商品推薦)
     分開存使用者訊息用於推薦系統
+    text檔
