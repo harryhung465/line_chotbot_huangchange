@@ -4,109 +4,111 @@
     "height": 1686
   },
   "selected": true,
-  "name": "賈寶玉款",
-  "chatBarText": "青梗峰頑石",
+  "name": "功能選單2",
+  "chatBarText": "查看更多選單",
   "areas": [
     {
       "bounds": {
-        "x": 1477,
-        "y": 50,
-        "width": 738,
-        "height": 226
+        "x": 87,
+        "y": 94,
+        "width": 1060,
+        "height": 348
       },
       "action": {
         "type": "postback",
-        "text": "想知道AI的戰略價值",
-        "data": "folder=天地靈石&tag=ai"
+        "text": "抓地力",
+        "data": "資料 1"
       }
     },
     {
       "bounds": {
-        "x": 1477,
-        "y": 318,
-        "width": 738,
-        "height": 202
+        "x": 89,
+        "y": 479,
+        "width": 1067,
+        "height": 349
       },
       "action": {
         "type": "postback",
-        "text": "想知道區塊鏈的戰略價值",
-        "data": "folder=因果交織&tag=blockchain"
+        "text": "穩定性",
+        "data": "資料 2"
       }
     },
     {
       "bounds": {
-        "x": 1473,
-        "y": 553,
-        "width": 738,
-        "height": 210
+        "x": 89,
+        "y": 859,
+        "width": 1066,
+        "height": 352
       },
       "action": {
         "type": "postback",
-        "text": "想知道雲服務的戰略價值",
-        "data": "folder=雲中幻境&tag=cloud"
+        "text": "牽引力",
+        "data": "資料 3"
       }
     },
     {
       "bounds": {
-        "x": 1481,
-        "y": 804,
-        "width": 730,
-        "height": 227
+        "x": 87,
+        "y": 1246,
+        "width": 1069,
+        "height": 353
       },
       "action": {
         "type": "postback",
-        "text": "產品快速導入的訣竅",
-        "data": "folder=匆忙幾度&tag=devops"
+        "text": "靈活性",
+        "data": "資料 4"
       }
     },
     {
       "bounds": {
-        "x": 1485,
-        "y": 1085,
-        "width": 726,
-        "height": 210
+        "x": 1354,
+        "y": 93,
+        "width": 1066,
+        "height": 348
       },
       "action": {
         "type": "postback",
-        "text": "點擊旁邊連結 line://ti/p/@gby2522m 進行聯絡",
-        "data": "folder=金陵四家&tag=contact"
+        "text": "緩震",
+        "data": "資料 5"
       }
     },
     {
       "bounds": {
-        "x": 1246,
-        "y": 1324,
-        "width": 1163,
-        "height": 194
-      },
-      "action": {
-        "type": "uri",
-        "uri": "https://www.youtube.com/channel/UC3Gi7RVF6-rY2JBbfvMV9yA"
-      }
-    },
-    {
-      "bounds": {
-        "x": 91,
-        "y": 13,
-        "width": 1213,
-        "height": 1002
-      },
-      "action": {
-        "type": "message",
-        "text": "風流情種"
-      }
-    },
-    {
-      "bounds": {
-        "x": 99,
-        "y": 1064,
-        "width": 1002,
-        "height": 500
+        "x": 1354,
+        "y": 476,
+        "width": 1061,
+        "height": 353
       },
       "action": {
         "type": "postback",
-        "text": "切換分頁",
-        "data": "tag=change_menu"
+        "text": "輕量",
+        "data": "資料 6"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1355,
+        "y": 859,
+        "width": 1062,
+        "height": 351
+      },
+      "action": {
+        "type": "postback",
+        "text": "耐磨",
+        "data": "資料 7"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1358,
+        "y": 1248,
+        "width": 1055,
+        "height": 351
+      },
+      "action": {
+        "type": "postback",
+        "text": "下一頁",
+        "data": "menu=rich_menu_2&tag=and"
       }
     }
   ]

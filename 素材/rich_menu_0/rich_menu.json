@@ -4,97 +4,111 @@
     "height": 1686
   },
   "selected": true,
-  "name": "主要的功能選單 - 經典款",
-  "chatBarText": "主功能選單",
+  "name": "功能選單1",
+  "chatBarText": "查看更多選單",
   "areas": [
     {
       "bounds": {
-        "x": 45,
-        "y": 125,
-        "width": 549,
-        "height": 684
+        "x": 87,
+        "y": 94,
+        "width": 1049,
+        "height": 348
       },
       "action": {
         "type": "postback",
-        "text": "想知道AI的戰略價值",
-        "data": "tag=ai"
+        "text": "支撐力",
+        "data": "資料 1"
       }
     },
     {
       "bounds": {
-        "x": 619,
-        "y": 120,
-        "width": 639,
-        "height": 693
+        "x": 89,
+        "y": 479,
+        "width": 1047,
+        "height": 349
       },
       "action": {
         "type": "postback",
-        "text": "想知道區塊鏈的戰略價值",
-        "data": "tag=blockchain"
+        "text": "柔軟",
+        "data": "資料 2"
       }
     },
     {
       "bounds": {
-        "x": 1267,
-        "y": 120,
-        "width": 618,
-        "height": 693
+        "x": 89,
+        "y": 859,
+        "width": 1049,
+        "height": 352
       },
       "action": {
         "type": "postback",
-        "text": "想知道雲服務的戰略價值",
-        "data": "tag=cloud"
+        "text": "舒適",
+        "data": "資料 3"
       }
     },
     {
       "bounds": {
-        "x": 1898,
-        "y": 116,
-        "width": 594,
-        "height": 701
+        "x": 87,
+        "y": 1246,
+        "width": 1046,
+        "height": 353
       },
       "action": {
         "type": "postback",
-        "text": "產品快速導入的訣竅",
-        "data": "tag=devops"
+        "text": "止滑",
+        "data": "資料 4"
       }
     },
     {
       "bounds": {
-        "x": 45,
-        "y": 858,
-        "width": 557,
-        "height": 751
+        "x": 1329,
+        "y": 93,
+        "width": 1040,
+        "height": 348
       },
       "action": {
         "type": "postback",
-        "text": "點擊旁邊連結 line://ti/p/@gby2522m 進行聯絡",
-        "data": "tag=contact"
+        "text": "透氣",
+        "data": "資料 5"
       }
     },
     {
       "bounds": {
-        "x": 623,
-        "y": 850,
-        "width": 1266,
-        "height": 755
+        "x": 1331,
+        "y": 476,
+        "width": 1045,
+        "height": 353
       },
       "action": {
-        "type": "uri",
-        "uri": "https://www.youtube.com/channel/UC3Gi7RVF6-rY2JBbfvMV9yA"
+        "type": "postback",
+        "text": "貼合",
+        "data": "資料 6"
       }
     },
     {
       "bounds": {
-        "x": 1906,
-        "y": 854,
-        "width": 582,
-        "height": 747
+        "x": 1329,
+        "y": 861,
+        "width": 1050,
+        "height": 351
       },
       "action": {
         "type": "postback",
-        "text": "切換分頁",
-        "data": "tag=change_menu"
+        "text": "防護",
+        "data": "資料 7"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1329,
+        "y": 1248,
+        "width": 1046,
+        "height": 351
+      },
+      "action": {
+        "type": "postback",
+        "text": "下一頁",
+        "data": "menu=rich_menu_1&tag=and"
       }
     }
   ]

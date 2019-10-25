@@ -1,7 +1,0 @@
-{"display_name": "harry hung", "picture_url": "https://profile.line-scdn.net/0m0592227f72513654b852cb8dd9354334a2e667c3adb0", "status_message": null, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
-{"display_name": "harry hung", "picture_url": "https://profile.line-scdn.net/0m0592227f72513654b852cb8dd9354334a2e667c3adb0", "status_message": null, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
-"run"
-{"display_name": "harry hung", "picture_url": "https://profile.line-scdn.net/0m0592227f72513654b852cb8dd9354334a2e667c3adb0", "status_message": null, "tag": "blackwhite", "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
-{"display_name": "harry hung", "picture_url": "https://profile.line-scdn.net/0m0592227f72513654b852cb8dd9354334a2e667c3adb0", "status_message": null, "tag": "populartype", "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
-{"display_name": "harry hung", "picture_url": "https://profile.line-scdn.net/0m0592227f72513654b852cb8dd9354334a2e667c3adb0", "status_message": null, "tag": "america", "time": [2019, 10, 16, 12, 42, 37, 2, 289, 0], "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
-{"display_name": "harry hung", "picture_url": "https://profile.line-scdn.net/0m0592227f72513654b852cb8dd9354334a2e667c3adb0", "status_message": null, "tag": "populartype", "time": "2019-10-16 12:43:56", "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
