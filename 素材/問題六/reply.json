@@ -8,13 +8,13 @@
       {
         "type": "postback",
         "label": "歐美系",
-        "text": "收到反饋",
+        "text": "歐美系",
         "data": "folder=rich_menu_4&tag=america"
       },
       {
         "type": "postback",
         "label": "日系",
-        "text": "收到反饋",
+        "text": "日系",
         "data": "folder=rich_menu_4&tag=japan"
       }
     ],

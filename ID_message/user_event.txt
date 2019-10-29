@@ -260,3 +260,142 @@
 {"tag": "man", "time": 1572011826332, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
 {"product_ID": "now to choose", "tag": "no send out message", "time": 1572011826331, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
 {"product_ID": "now to choose", "tag": "no send out message", "time": 1572011838715, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "Productsrecommend", "time": 1572160451180, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "no send out message", "time": 1572160451179, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "2", "time": 1572160454973, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "no send out message", "time": 1572160454971, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "3", "time": 1572160458055, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "no send out message", "time": 1572160458053, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "3", "time": 1572160461759, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "no send out message", "time": 1572160461758, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "no send out message", "time": 1572160472966, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "no send out message", "time": 1572160825898, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "no send out message", "time": 1572160954067, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "user of first entering", "time": 1572161000199, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "no send out message", "time": 1572161007700, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "no send out message", "time": 1572161038146, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "no send out message", "time": 1572161045057, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "no send out message", "time": 1572161048078, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "no send out message", "time": 1572161058627, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "no send out message", "time": 1572161063848, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "no send out message", "time": 1572161107633, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "no send out message", "time": 1572161113021, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "no send out message", "time": 1572161116994, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "no send out message", "time": 1572161211843, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "no send out message", "time": 1572161215784, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "no send out message", "time": 1572161219864, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "no send out message", "time": 1572161221237, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "no send out message", "time": 1572161804407, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "supporting_force", "time": 1572161826197, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "no send out message", "time": 1572161826196, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "soft", "time": 1572161841880, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "no send out message", "time": 1572161841879, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "no send out message", "time": 1572161930527, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "traction", "time": 1572162846594, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "user of first entering", "time": 1572162907145, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "man", "time": 1572162929166, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "3000", "time": 1572162942675, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "basketball", "time": 1572162967222, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "onlycolor", "time": 1572162975950, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "user of first entering", "time": 1572163362195, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "man", "time": 1572163385667, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "3000~5000", "time": 1572163394797, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "basketball", "time": 1572163535275, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "onlywhite", "time": 1572163539260, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "classictype", "time": 1572163542795, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "america", "time": 1572163546556, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "america", "time": 1572164053609, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "user of first entering", "time": 1572164635970, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "man", "time": 1572164641330, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "3000", "time": 1572164645240, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "user of first entering", "time": 1572313111873, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "man", "time": 1572313155805, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "3000~5000", "time": 1572313169445, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "basketball", "time": 1572313187734, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "onlywhite", "time": 1572313226093, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "classictype", "time": 1572313293651, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "america", "time": 1572313301781, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "Productsrecommend", "time": 1572314197566, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "4", "time": 1572314223721, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "4", "time": 1572314233509, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "4", "time": 1572314265565, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "traction", "time": 1572314591692, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "grip", "time": 1572314592816, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "trend", "time": 1572318288729, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "user of first entering", "time": 1572327990816, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "man", "time": 1572328011099, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "3000", "time": 1572328017700, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "basketball", "time": 1572328026618, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "onlywhite", "time": 1572328031008, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "populartype", "time": 1572328035199, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "america", "time": 1572328038653, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "Productsrecommend", "time": 1572328052427, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "Productsrecommend", "time": 1572328054908, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "3", "time": 1572328062346, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "4", "time": 1572328066598, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "user of first entering", "time": 1572328157307, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "man", "time": 1572328162357, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "3000", "time": 1572328167344, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "sport", "time": 1572328171173, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "onlycolor", "time": 1572328175363, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "classictype", "time": 1572328180807, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "america", "time": 1572328185191, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "Productsrecommend", "time": 1572328197060, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "3", "time": 1572328202693, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "3", "time": 1572328208601, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "4", "time": 1572328213339, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "3", "time": 1572328217949, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "soft", "time": 1572328238364, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "breathable", "time": 1572328240310, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "stability", "time": 1572328247119, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "Lightweight", "time": 1572328248418, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "flexibility", "time": 1572328249179, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "classic", "time": 1572328261184, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "Wearadvice", "time": 1572328275740, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "trend", "time": 1572328284653, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "Colortofindshoes", "time": 1572328296728, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "Picturetofindshoes", "time": 1572328304429, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "Productsrecommend", "time": 1572334397320, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "3", "time": 1572334406538, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "3", "time": 1572334410432, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "3", "time": 1572334413714, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "3", "time": 1572334416918, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "Productsrecommend", "time": 1572335540253, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "3", "time": 1572335544804, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "3", "time": 1572335548741, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "4", "time": 1572335554293, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "3", "time": 1572335637508, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "4", "time": 1572335641073, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "4", "time": 1572335645470, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "4", "time": 1572335742512, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "3", "time": 1572335746232, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "4", "time": 1572335752451, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "Productsrecommend", "time": 1572336012918, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "4", "time": 1572336027406, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "3", "time": 1572336032531, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "Productsrecommend", "time": 1572336273403, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "5", "time": 1572336277776, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "3", "time": 1572336282359, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "Productsrecommend", "time": 1572336903541, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "4", "time": 1572336907439, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "3", "time": 1572336910590, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "Productsrecommend", "time": 1572337036801, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "3", "time": 1572337043855, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "2", "time": 1572337047336, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "3", "time": 1572337292581, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "4", "time": 1572337295804, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "4", "time": 1572337300240, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "Productsrecommend", "time": 1572338683349, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "4", "time": 1572338687953, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "5", "time": 1572338691530, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "Productsrecommend", "time": 1572340239926, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "3", "time": 1572340265601, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "3", "time": 1572340270769, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "Productsrecommend", "time": 1572340382683, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "3", "time": 1572340387982, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "4", "time": 1572340391731, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "2", "time": 1572340395347, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "Productsrecommend", "time": 1572340442231, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "4", "time": 1572340447994, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "3", "time": 1572340452380, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "2", "time": 1572340455898, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}

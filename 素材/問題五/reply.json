@@ -8,19 +8,19 @@
       {
         "type": "postback",
         "label": "流行尖端",
-        "text": "收到反饋",
+        "text": "流行尖端",
         "data": "folder=問題六&tag=populartype"
       },
       {
         "type": "postback",
         "label": "經典款式",
-        "text": "收到反饋",
+        "text": "經典款式",
         "data": "folder=問題六&tag=classictype"
       },
       {
         "type": "postback",
         "label": "我都喜歡",
-        "text": "收到反饋",
+        "text": "我都喜歡",
         "data": "folder=問題六&tag=alltype"
       }
     ],

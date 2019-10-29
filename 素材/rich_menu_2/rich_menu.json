@@ -17,7 +17,7 @@
       "action": {
         "type": "postback",
         "text": "經典",
-        "data": "資料 1"
+        "data": "tag=classic"
       }
     },
     {
@@ -43,7 +43,7 @@
       "action": {
         "type": "postback",
         "text": "彈性",
-        "data": "資料 5"
+        "data": "tag=elasticity"
       }
     },
     {

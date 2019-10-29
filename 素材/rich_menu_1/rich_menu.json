@@ -17,7 +17,7 @@
       "action": {
         "type": "postback",
         "text": "抓地力",
-        "data": "資料 1"
+        "data": "tag=grip"
       }
     },
     {
@@ -30,7 +30,7 @@
       "action": {
         "type": "postback",
         "text": "穩定性",
-        "data": "資料 2"
+        "data": "tag=stability"
       }
     },
     {
@@ -43,7 +43,7 @@
       "action": {
         "type": "postback",
         "text": "牽引力",
-        "data": "資料 3"
+        "data": "tag=traction"
       }
     },
     {
@@ -56,7 +56,7 @@
       "action": {
         "type": "postback",
         "text": "靈活性",
-        "data": "資料 4"
+        "data": "tag=flexibility"
       }
     },
     {
@@ -69,7 +69,7 @@
       "action": {
         "type": "postback",
         "text": "緩震",
-        "data": "資料 5"
+        "data": "tag=slow_shock"
       }
     },
     {
@@ -82,7 +82,7 @@
       "action": {
         "type": "postback",
         "text": "輕量",
-        "data": "資料 6"
+        "data": "tag=Lightweight"
       }
     },
     {
@@ -95,7 +95,7 @@
       "action": {
         "type": "postback",
         "text": "耐磨",
-        "data": "資料 7"
+        "data": "tag=wear_resistant"
       }
     },
     {

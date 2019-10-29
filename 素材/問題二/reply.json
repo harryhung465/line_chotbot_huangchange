@@ -8,19 +8,19 @@
       {
         "type": "postback",
         "label": "3000元以下",
-        "text": "收到反饋",
+        "text": "3000元以下",
         "data": "folder=問題三&tag=3000"
       },
       {
         "type": "postback",
         "label": "3000~5000元",
-        "text": "收到反饋",
+        "text": "3000~5000元",
         "data": "folder=問題三&tag=3000~5000"
       },
       {
         "type": "postback",
         "label": "5000元以上",
-        "text": "收到反饋",
+        "text": "5000元以上",
         "data": "folder=問題三&tag=5000"
       }
     ],

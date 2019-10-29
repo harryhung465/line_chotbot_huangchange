@@ -8,25 +8,25 @@
       {
         "type": "postback",
         "label": "黑白",
-        "text": "收到反饋",
+        "text": "黑白",
         "data": "folder=問題五&tag=blackwhite"
       },
       {
         "type": "postback",
         "label": "白色",
-        "text": "收到反饋",
+        "text": "白色",
         "data": "folder=問題五&tag=onlywhite"
       },
       {
         "type": "postback",
         "label": "單色系",
-        "text": "收到反饋",
+        "text": "單色系",
         "data": "folder=問題五&tag=onlycolor"
       },
       {
         "type": "postback",
         "label": "色彩繽紛",
-        "text": "收到反饋",
+        "text": "色彩繽紛",
         "data": "folder=問題五&tag=morecolor"
       }
     ],

@@ -17,7 +17,7 @@
       "action": {
         "type": "postback",
         "text": "支撐力",
-        "data": "資料 1"
+        "data": "tag=supporting_force"
       }
     },
     {
@@ -30,7 +30,7 @@
       "action": {
         "type": "postback",
         "text": "柔軟",
-        "data": "資料 2"
+        "data": "tag=soft"
       }
     },
     {
@@ -43,7 +43,7 @@
       "action": {
         "type": "postback",
         "text": "舒適",
-        "data": "資料 3"
+        "data": "tag=comfortable"
       }
     },
     {
@@ -56,7 +56,7 @@
       "action": {
         "type": "postback",
         "text": "止滑",
-        "data": "資料 4"
+        "data": "tag=stop_slip"
       }
     },
     {
@@ -69,7 +69,7 @@
       "action": {
         "type": "postback",
         "text": "透氣",
-        "data": "資料 5"
+        "data": "tag=breathable"
       }
     },
     {
@@ -82,7 +82,7 @@
       "action": {
         "type": "postback",
         "text": "貼合",
-        "data": "資料 6"
+        "data": "tag=pasting"
       }
     },
     {
@@ -95,7 +95,7 @@
       "action": {
         "type": "postback",
         "text": "防護",
-        "data": "資料 7"
+        "data": "tag=protection"
       }
     },
     {
