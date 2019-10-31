@@ -82,3 +82,35 @@
 {"product_ID": "G27668", "tag": "Productsrecommend", "time": 1572340442231, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
 {"product_ID": "AC7841", "tag": "4", "time": 1572340447994, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
 {"product_ID": "EF1050", "tag": "3", "time": 1572340452380, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "F35375", "tag": "Productsrecommend", "time": 1572342118267, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "BC0526", "tag": "4", "time": 1572342125061, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "F37037", "tag": "3", "time": 1572342128593, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "EE8166", "tag": "Productsrecommend", "time": 1572358771168, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "EF7223", "tag": "4", "time": 1572358776341, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "F35403", "tag": "4", "time": 1572358779427, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "CQ1970", "tag": "Productsrecommend", "time": 1572504778619, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "F33616", "tag": "4", "time": 1572504842641, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "EE7375", "tag": "2", "time": 1572504867444, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "CG6348", "tag": "Productsrecommend", "time": 1572504959573, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "DB0898", "tag": "Productsrecommend", "time": 1572504960699, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "F36360", "tag": "3", "time": 1572507689722, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "EE5118", "tag": "3", "time": 1572507720319, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "Productsrecommend", "time": 1572516405866, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "3|product EF1232", "time": 1572516422309, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "2|product EF1410", "time": 1572516428133, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "Productsrecommend", "time": 1572517058504, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "3|product F35407", "time": 1572517064834, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "2|product EE7227", "time": 1572517071999, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "Productsrecommend", "time": 1572517931830, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "3|product G28275", "time": 1572517935308, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "2|product G28194", "time": 1572517938702, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "3|product F34384", "time": 1572517941707, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "Productsrecommend", "time": 1572518575572, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "3|product F99919", "time": 1572518581439, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "4|product G27955", "time": 1572518586553, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "3|product EE6107", "time": 1572518591238, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "Productsrecommend", "time": 1572519912326, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "Productsrecommend", "time": 1572520089784, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "BD7890", "score": "3", "time": 1572520094669, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "EE5320", "score": "3", "time": 1572520099541, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "G27578", "score": "2", "time": 1572520103933, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}

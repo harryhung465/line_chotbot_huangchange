@@ -399,3 +399,52 @@
 {"tag": "4", "time": 1572340447994, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
 {"tag": "3", "time": 1572340452380, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
 {"tag": "2", "time": 1572340455898, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "user of first entering", "time": 1572342000649, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "man", "time": 1572342038425, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "3000~5000", "time": 1572342043335, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "sport", "time": 1572342047622, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "onlywhite", "time": 1572342052700, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "classictype", "time": 1572342056317, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "america", "time": 1572342060136, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "Productsrecommend", "time": 1572342118267, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "4", "time": 1572342125061, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "3", "time": 1572342128593, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "3", "time": 1572342131909, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "comfortable", "time": 1572342180131, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "breathable", "time": 1572342180821, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "traction", "time": 1572342187231, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "slow_shock", "time": 1572342188093, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "flexibility", "time": 1572342189867, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "classic", "time": 1572342195128, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "trend", "time": 1572342243847, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "Wearadvice", "time": 1572342255912, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "Colortofindshoes", "time": 1572343121865, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "Picturetofindshoes", "time": 1572343164691, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "Colortofindshoes", "time": 1572343210327, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "Colortofindshoes", "time": 1572343302061, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "Picturetofindshoes", "time": 1572343389955, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "Colortofindshoes", "time": 1572343403174, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "Colortofindshoes", "time": 1572343425947, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "Picturetofindshoes", "time": 1572343432368, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "Colortofindshoes", "time": 1572346242440, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "Colortofindshoes", "time": 1572346242442, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "Picturetofindshoes", "time": 1572346242441, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "Colortofindshoes", "time": 1572346244589, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "Picturetofindshoes", "time": 1572346260202, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "Picturetofindshoes", "time": 1572346567427, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "Productsrecommend", "time": 1572358771168, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "4", "time": 1572358776341, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "4", "time": 1572358779427, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "4", "time": 1572358782515, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "maincolor|Secondarycolor|adidas Falcon Zip Shoes - Blue | adidas US", "time": 1572358844513, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "maincolor|Secondarycolor|adidas Predator 19.1 Firm Ground Cleats - Black | adidas US", "time": 1572358870299, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "Colortofindshoes", "time": 1572437032100, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "user of first entering", "time": 1572512849074, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "maincolor|Secondarycolor|adidas Crazychaos Shoes - Black | adidas US", "time": 1572516326665, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "user of first entering", "time": 1572516762231, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "user of first entering", "time": 1572518514627, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "maincolor |Secondarycolor |adidas-G28828adidas Alphabounce RC Shoes - Black | adidas US", "time": 1572518608533, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "maincolor |Secondarycolor |adidas-G27682adidas Speed Turf Shoes - Blue | adidas US", "time": 1572518630450, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "maincolor |Secondarycolor |adidas-EE8693adidas Lite Racer Adapt Shoes - Burgundy | adidas US", "time": 1572518637405, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "Productsrecommend", "time": 1572519562369, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "Productsrecommend", "time": 1572519621877, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
