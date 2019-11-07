@@ -448,3 +448,18 @@
 {"tag": "maincolor |Secondarycolor |adidas-EE8693adidas Lite Racer Adapt Shoes - Burgundy | adidas US", "time": 1572518637405, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
 {"tag": "Productsrecommend", "time": 1572519562369, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
 {"tag": "Productsrecommend", "time": 1572519621877, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "user of first entering", "time": 1572697970831, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "user of first entering", "time": 1572698405660, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "user of first entering", "time": 1572698608987, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "user of first entering", "time": 1572699321454, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "user of first entering", "time": 1572699522472, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "EE3654", "time": 1572699623503, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"tag": "CI5815-001", "time": 1572699654099, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "user of first entering", "time": 1572699674705, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "user of first entering", "time": 1572699807452, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "user of first entering", "time": 1572700441723, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "user of first entering", "time": 1572700519373, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "user of first entering", "time": 1572700612993, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "user of first entering", "time": 1572701636061, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "user of first entering", "time": 1572703083524, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "user of first entering", "time": 1572938414155, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}

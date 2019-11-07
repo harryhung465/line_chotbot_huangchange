@@ -114,3 +114,17 @@
 {"product_ID": "BD7890", "score": "3", "time": 1572520094669, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
 {"product_ID": "EE5320", "score": "3", "time": 1572520099541, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
 {"product_ID": "G27578", "score": "2", "time": 1572520103933, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "65529_CDB", "score": "4", "time": 1572697481456, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "51502_BRN", "score": "3", "time": 1572697484664, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "F34199", "score": "4", "time": 1572697562398, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "G28305", "score": "2", "time": 1572697565080, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "3021665-100", "score": "4", "time": 1572697833581, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "13328_BLU", "score": "2", "time": 1572697836944, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "13356_BBK", "score": "4", "time": 1572697839423, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "CG5177", "score": "2", "time": 1572699613744, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "310805-201", "score": "3", "time": 1572699615788, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "17680_BLU", "score": "3", "time": 1572699620300, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "1011A169-402", "score": "3", "time": 1572940777558, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "149062_BKW", "score": "2", "time": 1572940783515, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "CI1753-301", "score": "3", "time": 1572940843562, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "AQ1479-001", "score": "2", "time": 1572940849626, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
