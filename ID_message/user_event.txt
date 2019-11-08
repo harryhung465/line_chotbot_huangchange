@@ -463,3 +463,14 @@
 {"product_ID": "now to choose", "tag": "user of first entering", "time": 1572701636061, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
 {"product_ID": "now to choose", "tag": "user of first entering", "time": 1572703083524, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
 {"product_ID": "now to choose", "tag": "user of first entering", "time": 1572938414155, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "user of first entering", "time": 1573136834559, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "user of first entering", "time": 1573136915396, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "user of first entering", "time": 1573194561675, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "user of first entering", "time": 1573197370035, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "user of first entering", "time": 1573203026957, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "user of first entering", "time": 1573203674558, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "\u95dc\u6ce8", "time": 1573203713896, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "user of first entering", "time": 1573204162890, "user_id": "Ue7a89f70c3eebe699ecd5cd7a7e2c222"}
+{"product_ID": "now to choose", "tag": "user of first entering", "time": 1573204887030, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "user of first entering", "time": 1573206502339, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "user of first entering", "time": 1573206635351, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}

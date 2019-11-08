@@ -1,37 +1,172 @@
 [
 {
-  "type": "template",
-  "altText": "this is a buttons template",
-  "template": {
-    "type": "buttons",
-    "actions": [
-      {
-        "type": "postback",
-        "label": "跑鞋",
-        "text": "跑鞋",
-        "data": "folder=問題四&tag=run"
-      },
-      {
-        "type": "postback",
-        "label": "籃球鞋",
-        "text": "籃球鞋",
-        "data": "folder=問題四&tag=basketball"
-      },
-      {
-        "type": "postback",
-        "label": "運動休閒鞋",
-        "text": "運動休閒鞋",
-        "data": "folder=問題四&tag=sport"
-      },
-      {
-        "type": "postback",
-        "label": "其他運動鞋",
-        "text": "其他運動鞋",
-        "data": "folder=問題四&tag=other"
-      }
-    ],
-    "title": "問題",
-    "text": "你喜歡哪種類型的鞋子?"
+  "type": "flex",
+  "altText": "Flex Message",
+  "contents": {
+    "type": "bubble",
+    "direction": "ltr",
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "spacing": "sm",
+      "contents": [
+        {
+          "type": "text",
+          "text": "問題",
+          "weight": "bold"
+        },
+        {
+          "type": "text",
+          "text": "請問您是下列何種職業?",
+          "align": "start",
+          "weight": "regular",
+          "wrap": true
+        },
+        {
+          "type": "button",
+          "action": {
+            "type": "postback",
+            "label": "自由業",
+            "text": "自由業",
+            "data": "tag=Freelance&folder=rich_menu_4"
+          },
+          "flex": 3,
+          "color": "#070210",
+          "height": "sm",
+          "style": "link"
+        },
+        {
+          "type": "button",
+          "action": {
+            "type": "postback",
+            "label": "服務業",
+            "text": "服務業",
+            "data": "tag=services&folder=rich_menu_4"
+          },
+          "flex": 2,
+          "color": "#070210",
+          "height": "sm",
+          "style": "link"
+        },
+        {
+          "type": "button",
+          "action": {
+            "type": "postback",
+            "label": "金融證券業",
+            "text": "金融證券業",
+            "data": "tag=inancial_securities&folder=rich_menu_4"
+          },
+          "flex": 2,
+          "color": "#070210",
+          "height": "sm",
+          "style": "link"
+        },
+        {
+          "type": "button",
+          "action": {
+            "type": "postback",
+            "label": "製造業",
+            "text": "製造業",
+            "data": "tag=manufacturing&folder=rich_menu_4"
+          },
+          "flex": 2,
+          "color": "#070210",
+          "height": "sm",
+          "style": "link"
+        },
+        {
+          "type": "button",
+          "action": {
+            "type": "postback",
+            "label": "國營事業/公教人員",
+            "text": "國營事業/公教人員",
+            "data": "tag=state-ownedorpublic_education&folder=rich_menu_4"
+          },
+          "flex": 2,
+          "color": "#070210",
+          "height": "sm",
+          "style": "link"
+        },
+        {
+          "type": "button",
+          "action": {
+            "type": "postback",
+            "label": "電子業",
+            "text": "電子業",
+            "data": "tag=electronics&folder=rich_menu_4"
+          },
+          "flex": 2,
+          "color": "#070210",
+          "height": "sm",
+          "style": "link"
+        },
+        {
+          "type": "button",
+          "action": {
+            "type": "postback",
+            "label": "學生",
+            "text": "學生",
+            "data": "tag=students&folder=rich_menu_4"
+          },
+          "flex": 2,
+          "color": "#070210",
+          "height": "sm",
+          "style": "link"
+        },
+        {
+          "type": "button",
+          "action": {
+            "type": "postback",
+            "label": "資訊業",
+            "text": "資訊業",
+            "data": "tag=information_industry&folder=rich_menu_4"
+          },
+          "flex": 2,
+          "color": "#070210",
+          "height": "sm",
+          "style": "link"
+        },
+        {
+          "type": "button",
+          "action": {
+            "type": "postback",
+            "label": "家管",
+            "text": "家管",
+            "data": "tag=home_management&folder=rich_menu_4"
+          },
+          "flex": 2,
+          "color": "#070210",
+          "height": "sm",
+          "style": "link"
+        },
+        {
+          "type": "button",
+          "action": {
+            "type": "postback",
+            "label": "醫務人員",
+            "text": "醫務人員",
+            "data": "tag=medical_staff&folder=rich_menu_4"
+          },
+          "flex": 2,
+          "color": "#070210",
+          "height": "sm",
+          "style": "link"
+        },
+        {
+          "type": "button",
+          "action": {
+            "type": "postback",
+            "label": "其他行業",
+            "text": "其他行業",
+            "data": "tag=other_industries&folder=rich_menu_4"
+          },
+          "flex": 2,
+          "color": "#070210",
+          "height": "sm",
+          "style": "link"
+        }
+      ]
+    }
   }
 }
 ]

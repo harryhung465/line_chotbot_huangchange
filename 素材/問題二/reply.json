@@ -7,25 +7,31 @@
     "actions": [
       {
         "type": "postback",
-        "label": "3000元以下",
-        "text": "3000元以下",
-        "data": "folder=問題三&tag=3000"
+        "label": "11-20歲",
+        "text": "11-20歲",
+        "data": "folder=問題三&tag=11-20"
       },
       {
         "type": "postback",
-        "label": "3000~5000元",
-        "text": "3000~5000元",
-        "data": "folder=問題三&tag=3000~5000"
+        "label": "21-30歲",
+        "text": "21-30歲",
+        "data": "folder=問題三&tag=21-30"
       },
       {
         "type": "postback",
-        "label": "5000元以上",
-        "text": "5000元以上",
-        "data": "folder=問題三&tag=5000"
+        "label": "31-40歲",
+        "text": "31-40歲",
+        "data": "folder=問題三&tag=31-40"
+      },
+      {
+        "type": "postback",
+        "label": "41-50歲",
+        "text": "41-50歲",
+        "data": "folder=問題三&tag=41-50"
       }
     ],
     "title": "問題",
-    "text": "您的購鞋預算最高為多少?"
+    "text": "請問您的年齡在下列哪個區間?"
   }
 }
 ]
