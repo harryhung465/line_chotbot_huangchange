@@ -1,0 +1,10 @@
+{"age": "21-30", "time": 1573189331228, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"age": "11-20", "time": 1573191811013, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"age": "21-30", "time": 1573194572249, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"age": "31-40", "time": 1573197377725, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"age": "21-30", "time": 1573203061997, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"age": "21-30", "time": 1573203679293, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"age": "41-50", "time": 1573203719615, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"age": "21-30", "time": 1573204184842, "user_id": "Ue7a89f70c3eebe699ecd5cd7a7e2c222"}
+{"age": "21-30", "time": 1573206517539, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"age": "21-30", "time": 1573206649052, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}

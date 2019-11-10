@@ -1,0 +1,11 @@
+{"footwear": "medical_staff", "time": 1573189338597, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"footwear": "home_management", "time": 1573191815100, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"footwear": "home_management", "time": 1573193389875, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"footwear": "electronics", "time": 1573194577774, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"job": "information_industry", "time": 1573197382392, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"job": "information_industry", "time": 1573203072087, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"job": "information_industry", "time": 1573203682004, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"job": "state-ownedorpublic_education", "time": 1573203722196, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"job": "manufacturing", "time": 1573204192782, "user_id": "Ue7a89f70c3eebe699ecd5cd7a7e2c222"}
+{"job": "information_industry", "time": 1573206519326, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"job": "information_industry", "time": 1573206652017, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
