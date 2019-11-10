@@ -474,3 +474,5 @@
 {"product_ID": "now to choose", "tag": "user of first entering", "time": 1573204887030, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
 {"product_ID": "now to choose", "tag": "user of first entering", "time": 1573206502339, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
 {"product_ID": "now to choose", "tag": "user of first entering", "time": 1573206635351, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "user of first entering", "time": 1573376091313, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}
+{"product_ID": "now to choose", "tag": "user of first entering", "time": 1573376373602, "user_id": "U07eb38fc5e2318fee7f2ff8cf7cdad5b"}

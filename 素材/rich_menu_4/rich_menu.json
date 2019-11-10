@@ -42,8 +42,8 @@
       },
       "action": {
         "type": "postback",
-        "text": "可以幫助您尋找穿搭",
-        "data": "folder=穿搭建議&tag=Wearadvice"
+        "text": "可以協助您作退貨諮詢",
+        "data": "folder=退貨諮詢&tag=Wearadvice"
       }
     },
     {
@@ -55,8 +55,8 @@
       },
       "action": {
         "type": "postback",
-        "text": "可以在主功能表上選取功能來找鞋",
-        "data": "menu=rich_menu_0&tag=Functiontofindshoes"
+        "text": "可以依據您提供的資訊來找鞋",
+        "data": "folder=情境推薦&tag=Functiontofindshoes"
       }
     },
     {
@@ -81,8 +81,8 @@
       },
       "action": {
         "type": "postback",
-        "text": "推薦商品給您",
-        "data": "folder=商品推薦&tag=Productsrecommend"
+        "text": "給您個人推薦商品清單",
+        "data": "folder=個人推薦&tag=Productsrecommend"
       }
     }
   ]
